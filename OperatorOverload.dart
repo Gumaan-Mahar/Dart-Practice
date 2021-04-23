@@ -52,9 +52,7 @@ class Fraction {
       denominator: _denominator * other.denominator);
 
   Fraction operator -(Fraction other) => Fraction(
-      numerator: (_numerator *
-          other.denominator) - (_denominator *
-          other.numerator),
-      denominator: (_denominator *
-          other.denominator)); 
+      numerator:
+          (_numerator * other.denominator) - (_denominator * other.numerator),
+      denominator: (_denominator * other.denominator));
 }
