@@ -4,7 +4,7 @@ main() {
     Skills(['kind', 'beautiful', 'humorous'])
   ]).writeDetails());
   Person me = Person(name: 'Gumaan', age: 19, skills: [
-    Skills(['Genius', 'Billionaire', 'Philanthropist', 'Playbot'])
+    Skills(['Genius', 'Billionaire', 'Philanthropist', 'Playboy'])
   ]);
   Person anotherMe = me.copyWith(name: 'Zakiro', age: 1000);
   print(anotherMe.writeDetails());
