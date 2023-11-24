@@ -1,7 +1,7 @@
-1.Niko
-2.Sam
-3.Clinton
-4.Wrender
-5.Nick
-6.CMike
-7.Jake
+1.Gandalf The Grey
+2.Frodo
+3.Samwise Gamjee
+4.Bilbo Baggins
+5.Boromir
+6.Saruman
+7.Radagast The Brown
